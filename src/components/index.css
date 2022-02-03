@@ -1,0 +1,85 @@
+.list-item {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+  border-color: #b6c3ca;
+  padding: 10px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+.initial-container {
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  height: 30px;
+  margin-right: 15px;
+}
+
+.backgroundColor1 {
+  background-color: #7683cb;
+}
+
+.backgroundColor2 {
+  background-color: #f59e0b;
+}
+
+.backgroundColor3 {
+  background-color: #10b981;
+}
+
+.backgroundColor4 {
+  background-color: #f97316;
+}
+
+.backgroundColor5 {
+  background-color: #14b8a6;
+}
+
+.backgroundColor6 {
+  background-color: #b91c1c;
+}
+
+.initial-input-container {
+  display: flex;
+  align-items: center;
+}
+
+.initial {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 12px;
+}
+
+.input-elements-container {
+  margin-right: 38px;
+}
+
+.input-elements {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 10px;
+}
+
+.delete-btn {
+  background-color: transparent;
+  border: 0px;
+  cursor: pointer;
+}
+
+.delete-icon {
+  height: 20px;
+  width: 20px;
+}
+
+.stars-class {
+  height: 10px;
+  width: 80px;
+}
